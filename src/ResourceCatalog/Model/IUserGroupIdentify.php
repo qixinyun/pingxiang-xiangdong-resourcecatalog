@@ -23,7 +23,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['QSLJ'] => 'QSLJ',
         IUserGroup::ID['QLYJ'] => 'QLYJ',
         IUserGroup::ID['QJTYSJ'] => 'QJTYSJ',
-        IUserGroup::ID['QLFWs'] => 'QLFWs',
+        IUserGroup::ID['QLFW'] => 'QLFW',
         IUserGroup::ID['QFGJ'] => 'QFGJ',
         IUserGroup::ID['QSWJ'] => 'QSWJ',
         IUserGroup::ID['QMZJ'] => 'QMZJ',
